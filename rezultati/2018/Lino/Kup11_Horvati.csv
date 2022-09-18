@@ -1,0 +1,151 @@
+Surname,First name,Time,Classifier,Long,km,m,Course controls
+Milković,Patrick,20:34,0,M12,1.6,10,9
+Strmečki,Vibor,22:32,0,M12,1.6,10,9
+Boban,Jakov,26:32,0,M12,1.6,10,9
+Vukelić,Juraj,26:33,0,M12,1.6,10,9
+Meštrović,Martin,26:54,0,M12,1.6,10,9
+Smital,Mika,,1,M12,1.6,10,9
+Hribar,Timotej,26:43,0,M14,2.1,20,12
+Kuzmanić,Borna,42:18,0,M14,2.1,20,12
+Pavić,Viktor,46:15,0,M14,2.1,20,12
+Jevševar,Martin,22:50,0,M16,2.6,50,12
+Krajnović,Luka,52:46,0,M16,2.6,50,12
+Cindrić,Antonio,73:40,0,M16,2.6,50,12
+Kocijan,Luka,,1,M16,2.6,50,12
+Štambuk,Andro Vladimir,35:25,0,M20,3.8,90,19
+Gobec,Jan,37:22,0,M20,3.8,90,19
+Cvetković,Filip,40:29,0,M20,3.8,90,19
+Kukec,Jura,52:29,0,M20,3.8,90,19
+Verović,Kristijan,54:36,0,M20,3.8,90,19
+Kodba,Tin,92:04,3,M20,3.8,90,19
+Kodba,Vid,,1,M20,3.8,90,19
+Štanfel,Matjaž,30:28,0,M21A,5.6,100,24
+Kirin,Dominik,40:10,0,M21A,5.6,100,24
+Bijelić,Vedran,44:38,0,M21A,5.6,100,24
+Filetin,Luka,49:26,0,M21A,5.6,100,24
+Varnica,Tomislav,49:40,0,M21A,5.6,100,24
+Horvat,Lobel,51:06,0,M21A,5.6,100,24
+Šeperić-Grdiša,Ivan,69:46,0,M21A,5.6,100,24
+Kosić,Luka,74:42,0,M21A,5.6,100,24
+Kaldi,Vedran,,2,M21A,5.6,100,24
+Čapeta,Davor,56:20,3,M21A,5.6,100,24
+Jevševar,Bojan,,1,M21A,5.6,100,24
+Jelić,Ivor,30:01,0,M21B,3.1,50,11
+Bublić,Ivan,33:23,0,M21B,3.1,50,11
+Turkalj,Marijan,34:37,0,M21B,3.1,50,11
+Luri,Javi,45:39,0,M21B,3.1,50,11
+Mesic,Matija,67:23,0,M21B,3.1,50,11
+Salgado,Jorge,71:40,0,M21B,3.1,50,11
+Šojat,Goran,126:02,3,M21B,3.1,50,11
+Delimar,Domagoj,,1,M21B,3.1,50,11
+Delić,Petar,26:13,0,M35,3.8,90,19
+Vodopija,Goran,31:23,0,M35,3.8,90,19
+Kaniški,Tomislav,31:54,0,M35,3.8,90,19
+Klobučarić,Damir,37:49,0,M35,3.8,90,19
+Miljković,Damir,42:01,0,M35,3.8,90,19
+Stankovski,Dalibor,43:19,0,M35,3.8,90,19
+Gverić,Ivan,46:06,0,M35,3.8,90,19
+Novosel,Zdravko,49:31,0,M35,3.8,90,19
+Šantić,Domagoj,49:57,0,M35,3.8,90,19
+Meštrović,Tomislav,50:16,0,M35,3.8,90,19
+Gobec,Damir,28:19,0,M45,3.3,70,15
+Delgado,Francisco,30:05,0,M45,3.3,70,15
+Vukmanović,Mladen,30:13,0,M45,3.3,70,15
+Merunka,Darko,32:38,0,M45,3.3,70,15
+Penić,Ivan Ivo,36:30,0,M45,3.3,70,15
+Špoljar,Krešo,36:56,0,M45,3.3,70,15
+Vukelić,Bojan,37:33,0,M45,3.3,70,15
+Strmečki,Petar,37:47,0,M45,3.3,70,15
+Horjan,Zdenko,41:43,0,M45,3.3,70,15
+Pavlin,Domagoj,49:45,0,M45,3.3,70,15
+Tutić,Dražen,67:24,0,M45,3.3,70,15
+Dasović,Hrvoje,106:47,0,M45,3.3,70,15
+Trivunović,Vladimir,,1,M45,3.3,70,15
+Bogović,Marijan,,2,M45,3.3,70,15
+Lovrec,Nenad,28:29,0,M55,2.7,60,14
+Štambuk,Dario,34:26,0,M55,2.7,60,14
+Raškaj,Darko,35:52,0,M55,2.7,60,14
+Horvat,Saša,36:27,0,M55,2.7,60,14
+Gobec,Karlo,48:19,0,M55,2.7,60,14
+Lukačić,Ivica,48:28,0,M55,2.7,60,14
+Jelić,Mladen,49:14,0,M55,2.7,60,14
+Matijašić,Josip,56:21,0,M55,2.7,60,14
+Besten,Miroslav,75:38,0,M55,2.7,60,14
+Pongrac,Ivan,35:32,0,M65,2.2,40,11
+Turkalj,Milan,37:35,0,M65,2.2,40,11
+Mesić,Ivica,42:46,0,M65,2.2,40,11
+Čepelak,Radovan,57:12,0,M65,2.2,40,11
+Hodak,Janko,98:15,0,OPEN,2.5,40,12
+Komerički,Eva,98:49,0,OPEN,2.5,40,12
+Šantić,Veronika,36:38,0,BEGINNERS,1.6,10,9
+Šantić,Viktoria,36:42,0,BEGINNERS,1.6,10,9
+Kaniški,Roko,37:48,0,BEGINNERS,1.6,10,9
+Velmirović,Vittoria,38:28,0,BEGINNERS,1.6,10,9
+Kaniški,Greta,38:44,0,BEGINNERS,1.6,10,9
+Delić,Dora,64:45,0,BEGINNERS,1.6,10,9
+Drobić,Melissa,21:48,0,Ž12,1.6,10,9
+Hercigonja,Lucija,23:28,0,Ž12,1.6,10,9
+Štambuk,Lucija Marijela,27:47,0,Ž12,1.6,10,9
+Dasović,Petra,29:46,0,Ž12,1.6,10,9
+Pavić,Monika,61:00,0,Ž12,1.6,10,9
+Štambuk,Zdenka Petra,21:26,0,Ž14,2.1,20,12
+Vukelić,Dora,22:46,0,Ž14,2.1,20,12
+Hodak,Mirta,68:05,0,Ž14,2.1,20,12
+Potrebica,Ema,,1,Ž14,2.1,20,12
+Fejzić,Hanna,93:55,3,Ž14,2.1,20,12
+Kaniški,Laura,101:53,3,Ž14,2.1,20,12
+Pavlin,Paula,20:36,0,Ž16,2.5,40,12
+Jerković Perić,Olga,25:06,0,Ž16,2.5,40,12
+Kermek,Dora,77:28,0,Ž20,2.6,50,12
+Srebačić,Ana,83:26,0,Ž20,2.6,50,12
+Sakar Vukić,Tena,32:47,0,Ž21A,3.8,90,19
+Pavić,Mirja,36:02,0,Ž21A,3.8,90,19
+Vukmanovic,Vinka,37:12,0,Ž21A,3.8,90,19
+Štambuk,Iva,41:05,0,Ž21A,3.8,90,19
+Frajzman,Nevija,54:48,0,Ž21A,3.8,90,19
+Težak,Dora,68:57,0,Ž21A,3.8,90,19
+Štanfel,Urša,74:25,0,Ž21A,3.8,90,19
+Flerin Drevenšek,Mojca,,1,Ž21A,3.8,90,19
+Baburek,Gabrijela,38:21,0,Ž21B,2.6,50,12
+Držaić,Doroteja,53:14,0,Ž21B,2.6,50,12
+Delić,Ana,55:19,0,Ž21B,2.6,50,12
+Dukić,Helena,61:00,0,Ž21B,2.6,50,12
+Plevnik,Petra,65:07,0,Ž21B,2.6,50,12
+Tatić,Iva,66:49,0,Ž21B,2.6,50,12
+Prpić,Paula,68:25,0,Ž21B,2.6,50,12
+Latinger,Sandra,77:50,0,Ž21B,2.6,50,12
+Miljković,Dora,82:27,0,Ž21B,2.6,50,12
+Kos,Ines,82:56,0,Ž21B,2.6,50,12
+Radić,Vedrana,108:34,0,Ž21B,2.6,50,12
+Gajdek,Željka,55:39,3,Ž21B,2.6,50,12
+Govedarica,Zvjezdana,136:32,3,Ž21B,2.6,50,12
+Ulrich Cvenić,Ivana,,1,Ž21B,2.6,50,12
+Miličević,Aleksandra,120:28,3,Ž21B,2.6,50,12
+Šestan Krajnović,Ivana,,2,Ž21B,2.6,50,12
+Hribar,Anica,23:24,0,Ž35,2.7,40,11
+Šantić,Nikolina,29:03,0,Ž35,2.7,40,11
+Seražin Korper,Sabina,29:34,0,Ž35,2.7,40,11
+Glagolić,Saša,34:30,0,Ž35,2.7,40,11
+Stupalo,Vlatka,37:03,0,Ž35,2.7,40,11
+Cini,Fabiana,37:51,0,Ž35,2.7,40,11
+Jakšić,Mirka,45:21,0,Ž35,2.7,40,11
+Kušt,Maja,45:44,0,Ž35,2.7,40,11
+Gobec,Ivana,21:32,0,Ž45,2.2,40,11
+Kraintz,Evelyn,31:36,0,Ž45,2.2,40,11
+Punek Gobec,Neda,32:22,0,Ž45,2.2,40,11
+Cvitković,Maja,32:23,0,Ž45,2.2,40,11
+Vuk,Srebrenka,33:46,0,Ž45,2.2,40,11
+Glinska,Beata Adrianna,37:32,0,Ž45,2.2,40,11
+Ebenspanger,Emilija,37:38,0,Ž45,2.2,40,11
+Lovrec,Darinka,38:23,0,Ž45,2.2,40,11
+Horvat,Mirjana,40:06,0,Ž45,2.2,40,11
+Srebačić,Davorka,41:12,0,Ž45,2.2,40,11
+Nikolić,Bojana,42:19,0,Ž45,2.2,40,11
+Franc,Vera,42:20,0,Ž45,2.2,40,11
+Fabek,Branka,51:50,0,Ž45,2.2,40,11
+Kuzmanić,Ivana,58:02,0,Ž45,2.2,40,11
+Penc,Sanja,61:09,0,Ž45,2.2,40,11
+Vendler Čepelak,Željka,70:56,0,Ž45,2.2,40,11
+Pavlin,Daliborka,80:03,0,Ž45,2.2,40,11
+Boban,Mirta,106:18,0,Ž45,2.2,40,11
+Zadravec Kermek,Senija,,1,Ž45,2.2,40,11

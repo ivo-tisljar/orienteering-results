@@ -1,0 +1,158 @@
+Surname,First name,Time,Classifier,Short,km,m,Course controls
+Jevševar,Martin,13:23,0,M12,1.35,20,14
+Vukelić,Juraj,14:32,0,M12,1.35,20,14
+Tišljar,Mirko,18:16,0,M12,1.35,20,14
+Hribar,Timotej,20:30,0,M12,1.35,20,14
+Strmečki,Vibor,20:57,0,M12,1.35,20,14
+Gojmerac,Luka,23:51,3,M12,1.35,20,14
+Kukec,Jura,15:27,0,M16,1.91,25,17
+Gobec,Jan,17:17,0,M16,1.91,25,17
+Kodba,Tin,18:02,0,M16,1.91,25,17
+Kodba,Vid,22:33,0,M16,1.91,25,17
+Štambuk,Andro Vladimir,19:04,0,M20,2.79,45,24
+Puharić,Roko,22:16,0,M20,2.79,45,24
+Cvetković,Filip,24:14,0,M20,2.79,45,24
+Gojmerac,Petar,24:28,0,M20,2.79,45,24
+Bolešić,Hrvoje,28:45,0,M20,2.79,45,24
+Sabljak,Dominik,32:54,0,M20,2.79,45,24
+Verović,Kristijan,34:10,0,M20,2.79,45,24
+Jurak,Filip,39:18,0,M20,2.79,45,24
+Kirin,Dominik,17:54,3,M20,2.79,45,24
+Razum,Matija,17:08,0,M21,2.79,45,24
+Hribar,Andraž,17:29,0,M21,2.79,45,24
+Ocvirk,Edi,18:59,0,M21,2.79,45,24
+Varnica,Tomislav,20:24,0,M21,2.79,45,24
+Marković,Frane,21:07,0,M21,2.79,45,24
+Despetović,Tihomir,21:17,0,M21,2.79,45,24
+Leljak,Marko,22:16,0,M21,2.79,45,24
+Biro,Andrej,22:26,0,M21,2.79,45,24
+Horvat,Lobel,23:03,0,M21,2.79,45,24
+Dugi,Tihomir,23:27,0,M21,2.79,45,24
+Stipčević,Josip,24:02,0,M21,2.79,45,24
+Šeperić-Grdiša,Ivan,27:11,0,M21,2.79,45,24
+Dugonjić,Pavle,28:55,0,M21,2.79,45,24
+Kaldi,Vedran,29:25,0,M21,2.79,45,24
+Čutura,Domagoj,30:01,0,M21,2.79,45,24
+Župarić,Josip,30:16,0,M21,2.79,45,24
+Košturić,Marko,30:37,0,M21,2.79,45,24
+Mehinović,Armin,32:05,0,M21,2.79,45,24
+Janžek,Lovro,34:16,0,M21,2.79,45,24
+Vrabec,Marko,37:53,0,M21,2.79,45,24
+Boras,Ante,45:38,0,M21,2.79,45,24
+Kaučić,Mislav,47:14,0,M21,2.79,45,24
+Utković,Branimir,47:42,0,M21,2.79,45,24
+Očić,Anđelko,50:18,0,M21,2.79,45,24
+Jevševar,Bojan,20:14,0,M35,2.79,45,24
+Vuk,Tomislav,20:36,0,M35,2.79,45,24
+Hainž,Miroslav,21:17,0,M35,2.79,45,24
+Budi,Franjo,21:18,0,M35,2.79,45,24
+Vukelić,Bojan,24:06,0,M35,2.79,45,24
+Penić,Ivan Ivo,24:10,0,M35,2.79,45,24
+Perković,Eduard,24:29,0,M35,2.79,45,24
+Gojmerac,Tomislav,25:06,0,M35,2.79,45,24
+Bogović,Marijan,25:16,0,M35,2.79,45,24
+Kosić,Luka,27:33,0,M35,2.79,45,24
+Trivunović,Vladimir,27:51,0,M35,2.79,45,24
+Sovilj,Dalibor,31:13,0,M35,2.79,45,24
+Komin,Tomislav,32:27,0,M35,2.79,45,24
+Šantić,Domagoj,34,0,M35,2.79,45,24
+Pavlin,Domagoj,38:08,0,M35,2.79,45,24
+Orehoci,Robert,20:22,3,M35,2.79,45,24
+Štambuk,Dario,16:08,0,M50,1.94,30,17
+Strmečki,Petar,18:42,0,M50,1.94,30,17
+Priher,Miroslav,18:45,0,M50,1.94,30,17
+Janžek,Dražen,19:33,0,M50,1.94,30,17
+Jelić,Mladen,19:56,0,M50,1.94,30,17
+Sopina,Slavko,21:28,0,M50,1.94,30,17
+Lukačić,Ivica,22:42,0,M50,1.94,30,17
+Raškaj,Darko,23:15,0,M50,1.94,30,17
+Turkalj,Milan,25:42,0,M50,1.94,30,17
+Matijašić,Josip,26:39,0,M50,1.94,30,17
+Lovrec,Nenad,30:09,0,M50,1.94,30,17
+Horvat,Saša,22:42,3,M50,1.94,30,17
+Čurić,Ivan,15:21,0,OPEN,1.99,25,17
+Zadrović,Filip,16:22,0,OPEN,1.99,25,17
+Kokoš,Krunoslav,18:18,0,OPEN,1.99,25,17
+Martinović,Antonio,18:54,0,OPEN,1.99,25,17
+Petak,Davor,22:01,0,OPEN,1.99,25,17
+Grilec,Martina,22:09,0,OPEN,1.99,25,17
+Pogačić,Ivan,22:32,0,OPEN,1.99,25,17
+Gorup,Lucija,22:32,0,OPEN,1.99,25,17
+Ulrich Cvenić,Ivana,23:43,0,OPEN,1.99,25,17
+Marjanović,Marija,24:32,0,OPEN,1.99,25,17
+Grilec Gajšak,Ivana,25:17,0,OPEN,1.99,25,17
+Meštrović,Martin,27:52,0,OPEN,1.99,25,17
+Debić,Mladen,40:02,0,OPEN,1.99,25,17
+Cesarec Rivetti,Maja,31:55,3,OPEN,1.99,25,17
+Špiljak,Dijana,30:14,3,OPEN,1.99,25,17
+Kukec,Marta,12:25,0,Ž12,1.35,20,14
+Štambuk,Zdenka Petra,12:40,0,Ž12,1.35,20,14
+Vukelić,Dora,13:21,0,Ž12,1.35,20,14
+Gojmerac,Jelena,19:12,0,Ž12,1.35,20,14
+Vidaković,Majda,22:05,0,Ž12,1.35,20,14
+Težak,Magdalena,23:07,0,Ž12,1.35,20,14
+Kovač,Wanda,23:53,0,Ž12,1.35,20,14
+Štambuk,Lucija Marijela,38:39,0,Ž12,1.35,20,14
+Pavlin,Paula,18:22,0,Ž16,1.66,20,15
+Gojmerac,Lucija,18:48,0,Ž16,1.66,20,15
+Jevševar,Jedert,18:55,0,Ž16,1.66,20,15
+Jakopec,Iva,19:41,0,Ž16,1.66,20,15
+Srebačić,Ana,20:43,0,Ž16,1.66,20,15
+Kermek,Dora,22:22,0,Ž16,1.66,20,15
+Gojmerac,Marta,22:55,0,Ž16,1.66,20,15
+Petak,Marta,27:32,0,Ž16,1.66,20,15
+Hercigonja,Pia,22:22,3,Ž16,1.66,20,15
+Jerković Perić,Olga,31:04,3,Ž16,1.66,20,15
+Kovač,Ana,37:16,3,Ž16,1.66,20,15
+Ocvirk,Pia,15:12,0,Ž20,2.22,30,17
+Tišljar,Ana,17:23,0,Ž20,2.22,30,17
+Lovrec,Iva,17:26,0,Ž20,2.22,30,17
+Lovrec,Mia,18:46,0,Ž20,2.22,30,17
+Pavić,Mirja,15:35,0,Ž21,2.22,30,17
+Orlić,Antonija,15:51,0,Ž21,2.22,30,17
+Štambuk,Marija,16:51,0,Ž21,2.22,30,17
+Brezak,Jelena,17:58,0,Ž21,2.22,30,17
+Ocvirk,Eva,18:15,0,Ž21,2.22,30,17
+Težak,Dora,19:04,0,Ž21,2.22,30,17
+Krznar,Kristina,19:32,0,Ž21,2.22,30,17
+Kovaljesko,Monika,21:07,0,Ž21,2.22,30,17
+Kopjar,Marina,21:26,0,Ž21,2.22,30,17
+Filipović,Tamara,22:03,0,Ž21,2.22,30,17
+Ivanković,Anita,23:40,0,Ž21,2.22,30,17
+Horvat,Nikolina,24:38,0,Ž21,2.22,30,17
+Stupalo,Vlatka,24:47,0,Ž21,2.22,30,17
+Ovčarić,Slađana,25:18,0,Ž21,2.22,30,17
+Nikolić,Eni,27:44,0,Ž21,2.22,30,17
+Banović,Ivana,29:18,0,Ž21,2.22,30,17
+Ružić,Nika,31:49,0,Ž21,2.22,30,17
+Mikulinjak,Ivana,32:50,0,Ž21,2.22,30,17
+Čerkezović,Marija,33:41,0,Ž21,2.22,30,17
+Dubravčić,Asja,33:55,0,Ž21,2.22,30,17
+Bogadi,Ana,35:52,0,Ž21,2.22,30,17
+Žgela Putniković,Marijana,18:54,0,Ž35,1.89,35,17
+Janžek,Smiljana,19:19,0,Ž35,1.89,35,17
+Vlahović,Jasminka,19:59,0,Ž35,1.89,35,17
+Šantić,Nikolina,20:04,0,Ž35,1.89,35,17
+Popović Budi,Daniela,20:21,0,Ž35,1.89,35,17
+Cini,Fabiana,20:32,0,Ž35,1.89,35,17
+Čorko Meštrović,Irena,20:46,0,Ž35,1.89,35,17
+Jakšić,Mirka,21:58,0,Ž35,1.89,35,17
+Hribar,Anica,23:11,0,Ž35,1.89,35,17
+Kušt,Maja,23:29,0,Ž35,1.89,35,17
+Cvitković,Maja,23:56,0,Ž35,1.89,35,17
+Lovrec,Darinka,24:12,0,Ž35,1.89,35,17
+Stipić,Bernardica,24:38,0,Ž35,1.89,35,17
+Mandić,Ana,25:09,0,Ž35,1.89,35,17
+Špoljarec,Tajana,25:21,0,Ž35,1.89,35,17
+Lučić,Slađana,25:25,0,Ž35,1.89,35,17
+Detić,Lidija,26,0,Ž35,1.89,35,17
+Cindrić Perković,Jasminka,26:37,0,Ž35,1.89,35,17
+Sertić,Ivana,26:52,0,Ž35,1.89,35,17
+Majer,Melanija,26:54,0,Ž35,1.89,35,17
+Frajtić,Vanja,29:23,0,Ž35,1.89,35,17
+Djukić,Sanda,30:25,0,Ž35,1.89,35,17
+Kaučić Perković,Marija,30:40,0,Ž35,1.89,35,17
+Glinska,Beata,30:47,0,Ž35,1.89,35,17
+Kermek Zadravec,Senija,36:33,0,Ž35,1.89,35,17
+Sokolović,Marijana,39:01,0,Ž35,1.89,35,17
+Hrgovan,Lana,45:59,0,Ž35,1.89,35,17

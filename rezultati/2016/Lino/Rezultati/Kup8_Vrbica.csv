@@ -1,0 +1,127 @@
+Surname,First name,Time,Classifier,Long,km,m,Course controls
+Razum,Matija,40:36,0,M21A,4.3,240,13
+Gobec,Damir,41:39,0,M21A,4.3,240,13
+Čapeta,Davor,43:41,0,M21A,4.3,240,13
+Marković,Frane,45:50,0,M21A,4.3,240,13
+Spasić,Vladimir,47:41,0,M21A,4.3,240,13
+Despetović,Tihomir,52:43,0,M21A,4.3,240,13
+Varnica,Tomislav,54:39,0,M21A,4.3,240,13
+Filetin,Luka,54:59,0,M21A,4.3,240,13
+Suhina,Vanja,55:27,0,M21A,4.3,240,13
+Štambuk,Mario,59:53,0,M21A,4.3,240,13
+Horvat,Lobel,1:02:48,0,M21A,4.3,240,13
+Pongrac,Branimir,1:06:54,0,M21A,4.3,240,13
+Horvat,Vjeran,1:17:55,0,M21A,4.3,240,13
+Pavić,Mirja,46:09,0,Ž21A,3.7,200,10
+Štambuk,Marija,53:51,0,Ž21A,3.7,200,10
+Težak,Dora,1:15:47,0,Ž21A,3.7,200,10
+Kovaljesko,Monika,1:16:14,0,Ž21A,3.7,200,10
+Vukmanović,Vinka,,1,Ž21A,3.7,200,10
+Gobec,Ivana,,1,Ž21A,3.7,200,10
+Brezak,Jelena,,1,Ž21A,3.7,200,10
+Sakar Vukić,Tena,,1,Ž21A,3.7,200,10
+Šeperić-Grdiša,Ivan,37:29,0,M21B,2.6,90,8
+Perica,Mladen,45:45,0,M21B,2.6,90,8
+Kosić,Luka,48:47,0,M21B,2.6,90,8
+Peh,Krunoslav,48:53,0,M21B,2.6,90,8
+Pust,Tomaž,50:38,0,M21B,2.6,90,8
+Tutić,Dražen,52:04,0,M21B,2.6,90,8
+Karavidović,Luka,58:30,0,M21B,2.6,90,8
+Pavlin,Domagoj,59:41,0,M21B,2.6,90,8
+Košturić,Marko,1:00:53,0,M21B,2.6,90,8
+Puhek,Matija,,1,M21B,2.6,90,8
+Perica,Petar,,1,M21B,2.6,90,8
+Stupalo,Vlatka,34:49,0,Ž21B,1.9,80,7
+Triplat Horvat,Martina,56:12,0,Ž21B,1.9,80,7
+Kuzmanić,Ivana,1:14:49,0,Ž21B,1.9,80,7
+Plevnik,Petra,1:20:19,0,Ž21B,1.9,80,7
+Pongrac,Maja,1:26:30,0,Ž21B,1.9,80,7
+Čečura,Magdalena,1:28:33,0,Ž21B,1.9,80,7
+Ulrich Cvenić,Ivana,,1,Ž21B,1.9,80,7
+Pongrac,Ivan,46:36,0,M65,2.5,100,7
+Čepelak,Radovan,1:14:50,0,M65,2.5,100,7
+Debić,Mladen,1:46:10,0,M65,2.5,100,7
+Lovrec,Nenad,35:44,0,M55,2.6,130,9
+Lukačić,Ivica,1:16:29,0,M55,2.6,130,9
+Sladič,Roman,39:06,3,M55,2.6,130,9
+Merunka,Darko,36:24,0,M45,3.6,160,10
+Štambuk,Dario,40:15,0,M45,3.6,160,10
+Penić,Ivan Ivo,46:19,0,M45,3.6,160,10
+Bogović,Marijan,47:41,0,M45,3.6,160,10
+Horjan,Zdenko,54:31,0,M45,3.6,160,10
+Uroic,Milivoj,58:16,0,M45,3.6,160,10
+Horvat,Saša,58:32,0,M45,3.6,160,10
+Smerke,Andrej,1:01:43,0,M45,3.6,160,10
+Jelić,Mladen,1:06:35,0,M45,3.6,160,10
+Trivunović,Vladimir,,1,M45,3.6,160,10
+Cvitković,Maja,53:20,0,Ž45,2.6,130,9
+Ebenspanger,Emilija,56:01,0,Ž45,2.6,130,9
+Lovrec,Darinka,1:02:49,0,Ž45,2.6,130,9
+Fabek,Branka,1:12:26,0,Ž45,2.6,130,9
+Glinska,Beata,1:15:38,0,Ž45,2.6,130,9
+Vendler Čepelak,Željka,1:21:28,0,Ž45,2.6,130,9
+Pavlin,Daliborka,2:35:53,3,Ž45,2.6,130,9
+Sokolović,Alida,,3,Ž45,2.6,130,9
+Franc,Vera,,2,Ž45,2.6,130,9
+Legac,Lino,37:18,0,M35,3.9,210,12
+Budi,Franjo,47:29,0,M35,3.9,210,12
+Vodopija,Goran,48:59,0,M35,3.9,210,12
+Vukmanović,Mladen,51:44,0,M35,3.9,210,12
+Delgado,Pako,53:37,0,M35,3.9,210,12
+Van De Riet,Gerrit,53:52,0,M35,3.9,210,12
+Fabijanić,Daniel,55:10,0,M35,3.9,210,12
+Vuk,Tomislav,59:30,0,M35,3.9,210,12
+Gamberger,Marko,1:00:23,0,M35,3.9,210,12
+Vukelić,Bojan,1:03:22,0,M35,3.9,210,12
+Kovačić,Ivica,1:38:55,0,M35,3.9,210,12
+Meštrović,Tomislav,1:40:59,3,M35,3.9,210,12
+Gverić,Ivan,,2,M35,3.9,210,12
+Sovilj,Dalibor,,1,M35,3.9,210,12
+Lesjak,Sonja,46:14,0,Ž35,3.4,160,9
+Van De Riet,Dunja,50:10,0,Ž35,3.4,160,9
+Šantić,Nikolina,53:10,0,Ž35,3.4,160,9
+Cini,Fabiana,53:23,0,Ž35,3.4,160,9
+Popović Budi,Daniela,55:15,0,Ž35,3.4,160,9
+Sršen,Matea,59:17,0,Ž35,3.4,160,9
+Berženji,Sanda,1:01:06,0,Ž35,3.4,160,9
+Seražin Korper,Sabina,1:01:35,0,Ž35,3.4,160,9
+Kiš,Marta,1:07:29,0,Ž35,3.4,160,9
+Žgela Putniković,Marijana,1:09:13,0,Ž35,3.4,160,9
+Jakšić,Mirka,1:11:05,0,Ž35,3.4,160,9
+Stipic,Bernardica,1:18:00,0,Ž35,3.4,160,9
+Mandić,Ana,1:18:47,0,Ž35,3.4,160,9
+Kušt,Maja,1:23:58,0,Ž35,3.4,160,9
+Čorko Meštrović,Irena,1:35:34,0,Ž35,3.4,160,9
+Zubin,Kristina,,1,Ž35,3.4,160,9
+Kirin,Dominik,35:59,0,M20,4.1,210,12
+Štambuk,Andro Vladimir,47:20,0,M20,4.1,210,12
+Ivković,Luka,53:29,0,M20,4.1,210,12
+Cvetković,Filip,1:01:14,0,M20,4.1,210,12
+Puharić,Roko,1:03:19,0,M20,4.1,210,12
+Lovrec,Iva,53:35,0,Ž20,2.4,120,8
+Lovrec,Mia,58:36,0,Ž20,2.4,120,8
+Kukec,Jura,33:07,0,M16,2.4,120,8
+Težak,Karlo,37:03,0,M16,2.4,120,8
+Gobec,Jan,43:02,0,M16,2.4,120,8
+Kodba,Vid,54:44,0,M16,2.4,120,8
+Kodba,Tin,,1,M16,2.4,120,8
+Jakopec,Iva,1:10:17,0,Ž16,1.9,80,7
+Magdić Govedarica,Eva,1:14:15,0,Ž16,1.9,80,7
+Marković,Rudi,32:18,0,M14,1.7,70,7
+Tutić,Teo,47:48,0,M14,1.7,70,7
+Oreb,Petar,1:09:03,3,M14,1.7,70,7
+Pavlin,Paula,18:27,0,Ž14,1.7,70,7
+Jerković Perić,Olga,20:08,0,Ž14,1.7,70,7
+Lesjak,Jelena,28:25,0,Ž14,1.7,70,7
+Balaban,Ana,42:56,0,Ž14,1.7,70,7
+Kuzmanić,Borna,15:14,0,M12,1.4,40,6
+Strmečki,Vibor,17:17,0,M12,1.4,40,6
+Vukelić,Juraj,18:13,0,M12,1.4,40,6
+Jelić,Viktor,32:32,0,M12,1.4,40,6
+Kobijak,Karlo,33:24,0,M12,1.4,40,6
+Kukec,Marta,11:03,0,Ž12,1.4,40,6
+Vukelić,Dora,11:22,0,Ž12,1.4,40,6
+Težak,Magdalena,15:49,0,Ž12,1.4,40,6
+Kovač,Wanda,17:22,0,Ž12,1.4,40,6
+Delgado Sršen,Kira,17:43,0,Ž12,1.4,40,6
+Vidaković,Majda,17:46,0,Ž12,1.4,40,6

@@ -1,0 +1,49 @@
+
+
+    Directory: \\file\data\Korisnici\ivo\Documents\Orijentacija\Rezultati\Rezultati_za_web_2011-2020\2020\Karlo\Registracije
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---         07.02.2020.    14:35          18607 2020_02_07_Registracijski obrazac za OK Merz_001.xlsx
+-a---         20.02.2021.    12:26          17274 2020_02_07_Registracijski obrazac za OK Merz_001-edit-by-ivo.xlsx
+-a---         11.03.2020.    14:31          15325 2020_02_26_Registracijski obrazac za OK Kapela_001.xlsx
+-a---         28.02.2020.    12:51          21602 2020_02_28_Registracijski obrazac za OK Jelen_001.xlsx
+-a---         28.02.2020.    12:51           9999 2020_02_28_Registracijski obrazac za OK Kapela_002.xlsx
+-a---         04.03.2020.    12:38          23059 2020_02_28_Registracijski obrazac za OK Maksimir_001.xlsx
+-a---         04.03.2020.    12:39          20487 2020_02_28_Registracijski obrazac za OK Varazdin_001.xlsx
+-a---         04.03.2020.    12:41          19139 2020_02_29_Registracijski obrazac za OK Medjimurje_001.xlsx
+-a---         05.03.2020.    10:53          17386 2020_03_04_Registracijski obrazac za OK Japetic_001.xlsx
+-a---         05.03.2020.    10:53          17386 2020_03_04_Registracijski obrazac za OK Japetic_001_.xlsx
+-a---         05.03.2020.    11:41          21383 2020_03_05_Registracijski obrazac za OK Maksimir_002.xlsx
+-a---         20.09.2020.    23:13          29371 2020_03_06_Registracijski obrazac za OK Vihor_000.xlsx
+-a---         20.09.2020.    23:26          23381 2020_03_06_Registracijski obrazac za OK Vihor_001.xlsx
+-a---         07.03.2020.    18:57          15123 2020_03_07_Registracijski obrazac OK Bjelovar_001.xlsx
+-a---         11.03.2020.    12:54          16762 2020_03_09_Registracijski obrazac za OK Merz_002.xlsx
+-a---         11.03.2020.    12:58          14055 2020_03_11_Registracijski obrazac OK Bjelovar_002.xlsx
+-a---         11.03.2020.    13:02          14698 2020_03_11_Registracijski obrazac za OK Medjimurje_002.xlsx
+-a---         20.09.2020.    21:07          13109 2020_08_17_Registracijski obrazac OK Bjelovar_003.xlsx
+-a---         20.09.2020.    21:01          14654 2020_08_27_Registracijski obrazac za OK Orion_001.xlsx
+-a---         20.09.2020.    20:55          15327 2020_08_28_Registracijski obrazac za OK Vihor_002.xlsx
+-a---         21.09.2020.    10:27          22398 2020_08_31_Registracijski obrazac za OK Vihor_002_dodatak 1.xlsx
+-a---         20.09.2020.    20:56          21908 2020_08_31_Registracijski obrazac za OK Vihor_002_dodatak 2.xlsx
+-a---         20.09.2020.    21:00          16466 2020_09_13_Registracijski obrazac OK Bjelovar_004.xlsx
+-a---         20.09.2020.    19:38          17566 2020_09_15_Registracijski obrazac za OK Japetic_002.xlsx
+-a---         20.09.2020.    19:39          14921 2020_09_16_Registracijski obrazac za OK Kapela_003.xlsx
+-a---         20.09.2020.    19:41          14935 2020_09_16_Registracijski obrazac za OK Kapela_004_Kovačević Dragan.xl
+                                                  sx
+-a---         20.09.2020.    19:44          17674 2020_09_17_Registracijski obrazac za OK Japetic_003.xlsx
+-a---         20.09.2020.    19:46          14462 2020_09_19_Registracijski obrazac za OK Varaždin_002.xlsx
+-a---         20.09.2020.    20:12          27365 2020_09_20_Registracijski obrazac za OK Kapela_005.xlsx
+-a---         20.09.2020.    20:23          22993 2020_09_20_Registracijski obrazac za OK Medjimurje_003.xlsx
+-a---         20.09.2020.    20:38          23762 2020_09_20_Registracijski obrazac za OK Merz_003.xlsx
+-a---         21.09.2020.    10:31         167741 2020_09_20_Registracijski obrazac za OK Vihor_003.xlsx
+-a---         17.11.2020.    12:02          46987 2020_09_20_Registracijski obrazac za OK Vihor_005.xlsx
+-a---         23.09.2020.    20:55          45756 2020_09_22_Registracijski obrazac za OK Vihor_004_Maja.xlsx
+-a---         07.10.2020.    16:56          21330 2020_10_07_Registracijski obrazac za OK Maksimir_003.xlsx
+-a---         14.10.2020.    18:57           9929 2020_10_09_Registracijski obrazac za OK Kapela_006.xlsx
+-a---         17.01.2021.    22:48         237628 2020_Registracijski obrazac_Savez.xlsx
+-a---         20.02.2021.    12:32              0 dir.txt
+-a---         19.01.2021.    10:38          63627 Registracije 2020 - po granama - spojeno by Ivo -2.xlsx
+-a---         19.02.2021.    16:32          53361 Registracije 2020 - po granama - spojeno by Ivo.xlsx
+-a---         19.01.2021.    10:39          63627 Registracije 2020 - po granama - spojeno by Ivo-b.xlsx
+

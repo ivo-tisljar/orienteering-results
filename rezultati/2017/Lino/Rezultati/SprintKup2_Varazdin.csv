@@ -1,0 +1,128 @@
+Surname,First name,Time,Classifier,Course,km,m,Course controls
+Vukelić,Juraj,11:22,0,M12,1.33,10,16
+Vukics,Zénó,13:12,0,M12,1.33,10,16
+Kuzmanić,Borna,14:23,0,M12,1.33,10,16
+Strmečki,Vibor,20:21,0,M12,1.33,10,16
+Ivezić,Viktor Ignjat,44:38,0,M12,1.33,10,16
+Gobec,Jan,09:15,0,M16,1.71,10,19
+Salopek,Tihon,09:43,0,M16,1.71,10,19
+Marić,Bruno,14:24,0,M16,1.71,10,19
+Vodopija,Bruno,15:44,0,M16,1.71,10,19
+Bister,Luka,18:51,0,M16,1.71,10,19
+Lazar,David,20:42,0,M16,1.71,10,19
+Guliš,Zvonimir,22:37,0,M16,1.71,10,19
+Lebinac,Sven Ivor,27:13,0,M16,1.71,10,19
+Štambuk,Andro Vladimir,11:38,0,M20,2.45,10,22
+Puharić,Roko,14:42,0,M20,2.45,10,22
+Cvetković,Filip,15:50,0,M20,2.45,10,22
+Tkalec,Vedran,18:46,0,M20,2.45,10,22
+Razum,Matija,12:25,0,M21,2.85,10,22
+Kirin,Dominik,12:55,0,M21,2.85,10,22
+Varnica,Tomislav,14:58,0,M21,2.85,10,22
+Bijelić,Vedran,15:19,0,M21,2.85,10,22
+Gobec,Damir,15:38,0,M21,2.85,10,22
+Kaldi,Vedran,15:59,0,M21,2.85,10,22
+Filetin,Luka,16:54,0,M21,2.85,10,22
+Leljak,Marko,18:02,0,M21,2.85,10,22
+Šeperić-Grdiša,Ivan,20:39,0,M21,2.85,10,22
+Košturić,Marko,22:40,0,M21,2.85,10,22
+Bogović,Marijan,25:14,0,M21,2.85,10,22
+Vodopija,Goran,11:24,0,M35,2.4,10,20
+Orehoci,Robert,11:32,0,M35,2.4,10,20
+Salopek,Tihomir,12:23,0,M35,2.4,10,20
+Antolić,Željko,13:25,0,M35,2.4,10,20
+Hainž,Miroslav,13:29,0,M35,2.4,10,20
+Markulinčić,Predrag,13:42,0,M35,2.4,10,20
+Meštrović,Tomislav,15:44,0,M35,2.4,10,20
+Vukelić,Bojan,16:38,0,M35,2.4,10,20
+Horjan,Zdenko,17:42,0,M35,2.4,10,20
+Tutić,Dražen,19:25,0,M35,2.4,10,20
+Šantić,Domagoj,19:57,0,M35,2.4,10,20
+Budi,Franjo,23:24,0,M35,2.4,10,20
+Ivezić,Bernad,63:45,0,M35,2.4,10,20
+Tišljar,Ivo,17:44,3,M35,2.4,10,20
+Orehovec,Ranko,,1,M35,2.4,10,20
+Štambuk,Dario,11:54,0,M50,2.05,10,20
+Lovrec,Nenad,12:08,0,M50,2.05,10,20
+Janžek,Dražen,13:32,0,M50,2.05,10,20
+Erdős,Gábor,15:55,0,M50,2.05,10,20
+Strmečki,Petar,16:02,0,M50,2.05,10,20
+Vinko,Vladimir,17:33,0,M50,2.05,10,20
+Raškaj,Darko,17:56,0,M50,2.05,10,20
+Jelić,Mladen,18:02,0,M50,2.05,10,20
+Turkalj,Milan,19:15,0,M50,2.05,10,20
+Špoljar,Krešo,19:27,0,M50,2.05,10,20
+Vodopija,Zvonko,20:39,0,M50,2.05,10,20
+Vuk,Robert,24:36,0,M50,2.05,10,20
+Priher,Miroslav,14:15,3,M50,2.05,10,20
+Validžić,Damir,,1,M50,2.05,10,20
+Pasquino,Ivan,09:36,0,OPEN,1.36,10,17
+Lah,Siniša,11:26,0,OPEN,1.36,10,17
+Kocijan,Luka,11:52,0,OPEN,1.36,10,17
+Dolenac,Stana,13:09,0,OPEN,1.36,10,17
+Škiljan,Jasna,14:00,0,OPEN,1.36,10,17
+Pevec,Ozren,14:05,0,OPEN,1.36,10,17
+Benjak,Franjo,15:45,0,OPEN,1.36,10,17
+Novak,Matija,16:30,0,OPEN,1.36,10,17
+Labaš,Predrag,17:13,0,OPEN,1.36,10,17
+Ostroški,Sanja,17:29,0,OPEN,1.36,10,17
+Belović,Robert,17:46,0,OPEN,1.36,10,17
+Baburek,Gabrijela,18:48,0,OPEN,1.36,10,17
+Vugrek,Sara,18:49,0,OPEN,1.36,10,17
+Vukics,Simon,19:04,0,OPEN,1.36,10,17
+Nogić,Mateja,19:40,0,OPEN,1.36,10,17
+Lah,Mario,19:56,0,OPEN,1.36,10,17
+Kovačić,Ema,20:28,0,OPEN,1.36,10,17
+Tutić,Martina,21:52,0,OPEN,1.36,10,17
+Levatić,Jakov,31:48,0,OPEN,1.36,10,17
+Tkalec,Jakov,16:57,3,OPEN,1.36,10,17
+Kovačić,Mia,18:31,3,OPEN,1.36,10,17
+Tkalec,Jelena,13:50,3,OPEN,1.36,10,17
+Hercigonja,Bruna,,1,OPEN,1.36,10,17
+Govedarica,Zvjezdana,22:53,3,OPEN,1.36,10,17
+Jurak,Filip,,1,OPEN,1.36,10,17
+Vukelić,Dora,09:58,0,Ž12,1.23,10,16
+Vidaković,Majda,11:34,0,Ž12,1.23,10,16
+Salopek,Dorja,13:41,0,Ž12,1.23,10,16
+Markulinčić,Jana,13:45,0,Ž12,1.23,10,16
+Potrebica,Ema,14:14,0,Ž12,1.23,10,16
+Štambuk,Lucija,18:09,0,Ž12,1.23,10,16
+Štambuk,Zdenka Petra,10:22,0,Ž16,1.51,10,19
+Pavlin,Paula,10:32,0,Ž16,1.51,10,19
+Kermek,Dora,14:52,0,Ž16,1.51,10,19
+Srebačić,Ana,20:31,0,Ž16,1.51,10,19
+Magdić Govedarica,Eva,22:54,0,Ž16,1.51,10,19
+Vukics,Zoé,12:04,3,Ž16,1.51,10,19
+Lovrec,Mia,14:57,0,Ž20,2.1,10,20
+Tišljar,Ana,15:15,0,Ž20,2.1,10,20
+Lovrec,Iva,15:34,0,Ž20,2.1,10,20
+Jandrečić,Nola,22:45,3,Ž20,2.1,10,20
+Pavić,Mirja,13:04,0,Ž21,2.37,10,20
+Orlić,Antonija,13:07,0,Ž21,2.37,10,20
+Beblek,Ana,15:02,0,Ž21,2.37,10,20
+Frajzman,Nevija,16:41,0,Ž21,2.37,10,20
+Sipina Halper,Monika Martina,17:51,0,Ž21,2.37,10,20
+Plevnik,Petra,30:20,0,Ž21,2.37,10,20
+Kopjar,Marina,13:43,0,Ž35,2,10,19
+Cini,Fabiana,14:06,0,Ž35,2,10,19
+Šantić,Nikolina,14:35,0,Ž35,2,10,19
+Popović Budi,Daniela,14:44,0,Ž35,2,10,19
+Janžek,Smiljana,15:21,0,Ž35,2,10,19
+Jakšić,Mirka,16:05,0,Ž35,2,10,19
+Potrebica,Tanja,16:40,0,Ž35,2,10,19
+Lovrec,Darinka,17:38,0,Ž35,2,10,19
+Bergant Vidakovic,Sandra,17:43,0,Ž35,2,10,19
+Srebačić,Davorka,18:08,0,Ž35,2,10,19
+Kuzmanić,Ivana,18:11,0,Ž35,2,10,19
+Stipic,Bernardica,18:33,0,Ž35,2,10,19
+Kušt,Maja,22:29,0,Ž35,2,10,19
+Holjevac-Gagulić,Tajana,26:42,0,Ž35,2,10,19
+Perković,Mihaela Marija,38:04,0,Ž35,2,10,19
+Cindrić Perković,Jasminka,,1,Ž35,2,10,19
+Erdősné Németh,Ágnes,12:04,0,Ž50,1.57,10,16
+Kraintz,Evelyn,13:41,0,Ž50,1.57,10,16
+Holenda,Karmen,20:06,0,Ž50,1.57,10,16
+Vuk,Srebrenka,22:28,0,Ž50,1.57,10,16
+Vodopija,Biserka,27:46,0,Ž50,1.57,10,16
+Franc,Vera,22:15,3,Ž50,1.57,10,16
+Mak,Marinka,22:39,3,Ž50,1.57,10,16

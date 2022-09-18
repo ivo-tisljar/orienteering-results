@@ -1,0 +1,94 @@
+Surname,First name,Time,Classifier,Course,km,m,Course controls
+Kuzmanić,Borna,12:50,0,M12,0.93,25,7
+Gojmerac,Luka,17:08,0,M12,0.93,25,7
+Strmečki,Vibor,18:10,0,M12,0.93,25,7
+Kobijak,Karlo,20:26,0,M12,0.93,25,7
+Skopljak,David,22:28,0,M12,0.93,25,7
+Kovačić,Ema,,1,M12,0.93,25,7
+Guliš,Zvonimir,21:12,3,M12,0.93,25,7
+Gobec,Jan,16:51,0,M16,1.41,35,14
+Kodba,Vid,19:30,0,M16,1.41,35,14
+Tkalec,Vedran,20:52,0,M16,1.41,35,14
+Kukec,Jura,22:14,0,M16,1.41,35,14
+Težak,Karlo,22:40,0,M16,1.41,35,14
+Marković,Rudi,23:59,0,M16,1.41,35,14
+Kodba,Tin,18:18,3,M16,1.41,35,14
+Štambuk,Andro Vladimir,14:50,0,M20,1.94,85,18
+Kirin,Dominik,15:51,0,M20,1.94,85,18
+Ivković,Luka,16:47,0,M20,1.94,85,18
+Cvetković,Filip,28:21,0,M20,1.94,85,18
+Puharić,Roko,29:18,0,M20,1.94,85,18
+Janžek,Gregor,35:53,0,M20,1.94,85,18
+Verović,Kristijan,41:50,0,M20,1.94,85,18
+Gojmerac,Petar,,1,M20,1.94,85,18
+Jurak,Filip,46:01,3,M20,1.94,85,18
+Mirković,Marko,,1,M20,1.94,85,18
+Razum,Matija,17:05,0,M21,2.25,100,17
+Marković,Frane,20:14,0,M21,2.25,100,17
+Bahun,Luka,25:59,0,M21,2.25,100,17
+Horvat,Lobel,33:41,0,M21,2.25,100,17
+Despetović,Tihomir,35:05,0,M21,2.25,100,17
+Janžek,Lovro,39:19,0,M21,2.25,100,17
+Horvat,Vjeran,39:52,0,M21,2.25,100,17
+Šeperić-Grdiša,Ivan,43:49,0,M21,2.25,100,17
+Štambuk,Mario,28:03,3,M21,2.25,100,17
+Ocvirk,Edi,24:02,3,M21,2.25,100,17
+Košturić,Marko,,1,M21,2.25,100,17
+Orehoci,Robert,22:17,0,M35,2.07,80,19
+Budi,Franjo,22:51,0,M35,2.07,80,19
+Fabijanić,Daniel,24:54,0,M35,2.07,80,19
+Meštrović,Tomislav,28:28,0,M35,2.07,80,19
+Hainž,Miroslav,30:36,0,M35,2.07,80,19
+Mađarić,Predrag,30:48,0,M35,2.07,80,19
+Pust,Tomaž,31:40,0,M35,2.07,80,19
+Tkalec,Robert,41:16,0,M35,2.07,80,19
+Gojmerac,Tomislav,49:19,0,M35,2.07,80,19
+Bogović,Marijan,,1,M35,2.07,80,19
+Orehovec,Ranko,43:35,3,M35,2.07,80,19
+Legac,Lino,,1,M35,2.07,80,19
+Trivunović,Vladimir,,1,M35,2.07,80,19
+Lovrec,Nenad,19:53,0,M50,1.67,65,15
+Janžek,Dražen,23:23,0,M50,1.67,65,15
+Priher,Miroslav,25:43,0,M50,1.67,65,15
+Vinko,Vladimir,26:27,0,M50,1.67,65,15
+Sladič,Roman,27:27,0,M50,1.67,65,15
+Strmečki,Petar,27:35,0,M50,1.67,65,15
+Raškaj,Darko,32:48,0,M50,1.67,65,15
+Horvat,Saša,43:11,0,M50,1.67,65,15
+Erdős,Gábor,38:04,3,M50,1.67,65,15
+Štambuk,Dario,23:42,3,M50,1.67,65,15
+Turkalj,Milan,44:00,3,M50,1.67,65,15
+Štambuk,Zdenka Petra,09:20,0,Ž12,0.83,15,6
+Vidaković,Majda,12:59,0,Ž12,0.83,15,6
+Kukec,Marta,14:32,0,Ž12,0.83,15,6
+Vukics,Zoé,14:52,0,Ž12,0.83,15,6
+Gojmerac,Jelena,19:04,0,Ž12,0.83,15,6
+Štambuk,Lucija Marijela,,1,Ž12,0.83,15,6
+Lesjak,Jelena,23:21,0,Ž16,1.35,50,11
+Kermek,Dora,25:20,0,Ž16,1.35,50,11
+Srebačić,Ana,27:24,0,Ž16,1.35,50,11
+Ivković,Sara,27:47,0,Ž16,1.35,50,11
+Gojmerac,Marta,31:19,0,Ž16,1.35,50,11
+Jakopec,Iva,,1,Ž16,1.35,50,11
+Ocvirk,Pia,24:25,0,Ž20,1.68,65,16
+Tišljar,Ana,34:45,0,Ž20,1.68,65,16
+Crnković,Manuela,34:55,0,Ž20,1.68,65,16
+Jandrečić,Nola,37:04,0,Ž20,1.68,65,16
+Balent,Silvija,56:05,3,Ž20,1.68,65,16
+Sakar Vukić,Tena,22:36,0,Ž21,1.92,85,15
+Pavić,Mirja,22:53,0,Ž21,1.92,85,15
+Krznar,Kristina,33:41,0,Ž21,1.92,85,15
+Štambuk,Marija,,1,Ž21,1.92,85,15
+Ocvirk,Eva,17:47,0,Ž35,1.61,65,14
+Janžek,Smiljana,22:45,0,Ž35,1.61,65,14
+Šantić,Nikolina,23:27,0,Ž35,1.61,65,14
+Žgela Putniković,Marijana,23:33,0,Ž35,1.61,65,14
+Jakšić,Mirka,25:14,0,Ž35,1.61,65,14
+Mandić,Ana,27:09,0,Ž35,1.61,65,14
+Erdősné Németh,Ágnes,27:27,0,Ž35,1.61,65,14
+Cindrić Perković,Jasminka,38:09,0,Ž35,1.61,65,14
+Srebačić,Davorka,38:55,0,Ž35,1.61,65,14
+Kermek Zadravec,Senija,56:59,0,Ž35,1.61,65,14
+Kuzmanić,Ivana,82:12,0,Ž35,1.61,65,14
+Cini,Fabiana,,1,Ž35,1.61,65,14
+Majer,Melanija,,0,Ž35,1.61,65,14

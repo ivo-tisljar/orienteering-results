@@ -1,0 +1,4 @@
+update registrations set registered = 0 where cupCat=20 or sprintCat=46 or mtbCat=47
+SELECT * FROM registrations where cupCat=20 or sprintCat=46 or mtbCat=47
+
+Runners table -> registrationID NULL

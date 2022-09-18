@@ -1,0 +1,101 @@
+Surname,First name,Time,Classifier,Long,km,m,Course controls
+Gojmerac,Luka,12:25,0,M12,1.58,0,13
+Strmečki,Vibor,18:36,0,M12,1.58,0,13
+Meštrović,Martin,18:51,0,M12,1.58,0,13
+Milković,Patrick,22:42,3,M12,1.58,0,13
+Boban,Jakov,20:40,3,M12,1.58,0,13
+Smital,Mika,42:50,3,M12,1.58,0,13
+Kocijan,Luka,18:23,0,M16,1.71,0,15
+Pevec,Ozren,18:51,0,M16,1.71,0,15
+Kuzmanić,Borna,20:18,0,M16,1.71,0,15
+Putarek,Mislav,21:46,0,M16,1.71,0,15
+Tišljar,Mirko,30:15,0,M16,1.71,0,15
+Gobec,Jan,17:02,0,M20,2.49,0,22
+Cvetković,Filip,20:18,0,M20,2.49,0,22
+Kukec,Jura,20:22,0,M20,2.49,0,22
+Gojmerac,Petar,,1,M20,2.49,0,22
+Štambuk,Andro Vladimir,16:59,3,M20,2.49,0,22
+Razum,Matija,17:23,0,M21,2.92,0,26
+Filetin,Luka,20:21,0,M21,2.92,0,26
+Varnica,Tomislav,20:30,0,M21,2.92,0,26
+Leljak,Marko,21:43,0,M21,2.92,0,26
+Horvat,Lobel,22:47,0,M21,2.92,0,26
+Kelemen,Tomislav,27:13,0,M21,2.92,0,26
+Bijelić,Vedran,,1,M21,2.92,0,26
+Kaldi,Vedran,,1,M21,2.92,0,26
+Janžek,Lovro,,1,M21,2.92,0,26
+Delimar,Domagoj,,1,M21,2.92,0,26
+Ocvirk,Edi,14:28,0,M35,2.27,0,23
+Vodopija,Goran,15:21,0,M35,2.27,0,23
+Budi,Franjo,16:42,0,M35,2.27,0,23
+Orehoci,Robert,16:57,0,M35,2.27,0,23
+Canjuga,Krunoslav,17:06,0,M35,2.27,0,23
+" Riet, van Der",Gerrit,17:09,0,M35,2.27,0,23
+Pongrac,Branimir,18:10,0,M35,2.27,0,23
+Meštrović,Tomislav,18:50,0,M35,2.27,0,23
+Kosić,Luka,21:35,0,M35,2.27,0,23
+Bublić,Ivan,22:21,0,M35,2.27,0,23
+Gojmerac,Tomislav,25:51,0,M35,2.27,0,23
+Tišljar,Ivo,20:29,0,M50,2.26,0,24
+Lovrec,Nenad,21:04,0,M50,2.26,0,24
+Strmečki,Petar,22:08,0,M50,2.26,0,24
+Janžek,Dražen,25:13,0,M50,2.26,0,24
+Boban,Mile,30:30,0,M50,2.26,0,24
+Špoljar,Krešo,30:50,0,M50,2.26,0,24
+Turkalj,Milan,40:40,3,M50,2.26,0,24
+Raškaj,Darko,26:24,3,M50,2.26,0,24
+Horvat,Saša,26:57,3,M50,2.26,0,24
+Jelić,Mladen,5789:10,3,M50,2.26,0,24
+Mađarić,Viktor,16:10,0,OPEN,1.83,0,21
+Smuđ,Miroslav,23:29,0,OPEN,1.83,0,21
+Patafta,Jaka,26:47,0,OPEN,1.83,0,21
+Vugrek,Sara,30:14,0,OPEN,1.83,0,21
+Rodeš,Dora,31:23,0,OPEN,1.83,0,21
+Holenda,Karmen,36:20,0,OPEN,1.83,0,21
+Grabar,Jakov,39:13,0,OPEN,1.83,0,21
+Labaš,Predrag,,1,OPEN,1.83,0,21
+Pleše,Danko,21:14,3,OPEN,1.83,0,21
+Mađarić,Nika,,1,OPEN,1.83,0,21
+Lah,Mario,24:22,3,OPEN,1.83,0,21
+Držaić,Ivana,,2,OPEN,1.83,0,21
+Majer,Melanija,,1,OPEN,1.83,0,21
+Vodopija,Bruno,1635:21,3,OPEN,1.83,0,21
+Držaić,Đuro,,2,OPEN,1.83,0,21
+Štambuk,Lucija Marijela,35:21,3,Ž12,1.5,0,11
+Gojmerac,Jelena,13:35,3,Ž12,1.5,0,11
+Jerković Perić,Olga,12:42,0,Ž16,1.81,0,16
+Štambuk,Zdenka Petra,15:50,0,Ž16,1.81,0,16
+Potrebica,Ema,18:16,0,Ž16,1.81,0,16
+Boban,Rea,22:03,0,Ž16,1.81,0,16
+Vidaković,Majda,24:45,0,Ž16,1.81,0,16
+Gojmerac,Marta,31:38,0,Ž16,1.81,0,16
+Smuđ,Ana,33:08,0,Ž16,1.81,0,16
+Kermek,Dora,23:02,0,Ž20,2.16,0,19
+Gojmerac,Lucija,26:39,0,Ž20,2.16,0,19
+Srebačić,Ana,27:15,0,Ž20,2.16,0,19
+Pavić,Mirja,17:32,0,Ž21,2.42,0,22
+Orlić,Antonija,17:37,0,Ž21,2.42,0,22
+Jandrečić,Nola,21:30,0,Ž21,2.42,0,22
+Sipina Halper,Monika Martina,27:10,0,Ž21,2.42,0,22
+Držaić,Doroteja,28:22,0,Ž21,2.42,0,22
+Kos,Ines,31:08,0,Ž21,2.42,0,22
+Štambuk,Iva,,1,Ž21,2.42,0,22
+Plevnik,Petra,,1,Ž21,2.42,0,22
+Van De Riet,Dunja,19:49,0,Ž35,2.16,0,21
+Popović Budi,Daniela,20:55,0,Ž35,2.16,0,21
+Cini,Fabiana,21:24,0,Ž35,2.16,0,21
+Janžek,Smiljana,21:46,0,Ž35,2.16,0,21
+Čorko Meštrović,Irena,21:51,0,Ž35,2.16,0,21
+Šantić,Nikolina,22:27,0,Ž35,2.16,0,21
+Krš,Sanja,22:52,0,Ž35,2.16,0,21
+Jakšić,Mirka,23:54,0,Ž35,2.16,0,21
+Kuzmanić,Ivana,24:51,0,Ž35,2.16,0,21
+Stipić,Bernardica,25:18,0,Ž35,2.16,0,21
+Kušt,Maja,25:58,0,Ž35,2.16,0,21
+Srebačić,Davorka,30:54,0,Ž35,2.16,0,21
+Gojmerac,Mirjana,44:15,0,Ž35,2.16,0,21
+Cvitković,Maja,22:58,0,Ž50,1.95,0,21
+Vuk,Srebrenka,25:04,0,Ž50,1.95,0,21
+Horvat,Mirjana,27:01,0,Ž50,1.95,0,21
+Kraintz,Evelyn,29:02,0,Ž50,1.95,0,21
+Boban,Mirta,35:17,0,Ž50,1.95,0,21
